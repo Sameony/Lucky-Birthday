@@ -72,6 +72,29 @@ body{
     text-decoration: none;
  }
 
-img{
+.candles{
     width: 100vw;
+}
+
+ /* Footer */
+ .footer{
+    padding: 2rem;
+    text-align: center;
+    color: white;
+    
+}
+
+.list-item-inline{
+    display: inline;
+    padding: 1rem;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+    color:white;
+}
+
+.footer-header{
+    font-size: x-large;
+    font-weight: bold;
 }
