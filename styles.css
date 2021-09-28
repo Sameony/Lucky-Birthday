@@ -72,6 +72,12 @@ body{
     text-decoration: none;
  }
 
+ .outputHere{
+     padding: 1rem;
+     margin: 1rem;
+     font-size: larger;
+ }
+
 .candles{
     width: 100vw;
 }
